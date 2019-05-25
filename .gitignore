@@ -1,4 +1,3 @@
-x310/*.py
 x310/*.pyc
-example/*.py
 example/*.pyc
+example/*.raw
