@@ -46,7 +46,7 @@
     </param>
     <param>
       <key>id</key>
-      <value>file-dump-1</value>
+      <value>file_dump_1</value>
     </param>
     <param>
       <key>max_nouts</key>
