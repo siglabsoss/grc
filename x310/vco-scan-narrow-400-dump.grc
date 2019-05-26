@@ -184,7 +184,8 @@
     <key>variable</key>
     <param>
       <key>comment</key>
-      <value></value>
+      <value>Ben's Stack 13  -&gt;  int(400.000E6)+0
+Grav3                     -&gt;  int(400.000E6)-20000</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -581,7 +582,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(480, 396)</value>
+      <value>(456, 436)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2542,7 +2543,7 @@ this block will append _0.raw _1.raw etc</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(224, 284)</value>
+      <value>(184, 356)</value>
     </param>
     <param>
       <key>_rotation</key>
